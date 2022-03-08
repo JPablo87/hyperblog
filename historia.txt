@@ -2,4 +2,6 @@ Este es un archivo de pruba para la clase de git y github
 
 Juan Vera se ha unido a este proyecto porque quiere contribuir
 
+Master 1
+
 Espero pueda aprender mucho de esta clase
